@@ -1,1 +1,6 @@
-noah@192.168.86.53
+[web_servers]
+noah@192.168.86.53 
+
+[db_servers]
+
+[file_servers]
